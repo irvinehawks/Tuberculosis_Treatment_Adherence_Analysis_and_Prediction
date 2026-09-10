@@ -1,0 +1,14 @@
+,0
+patient_id,0
+age,0
+sex,0
+district,0
+employment_status,0
+distance_to_clinic_km,0
+clinic_wait_time_min,0
+monthly_income_usd,12
+missed_appointments,0
+support_score_1_10,10
+side_effects,133
+treatment_duration_months,0
+adherent,0

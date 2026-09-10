@@ -1,0 +1,39 @@
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Python cache/bytecode ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Environment / secrets ---
+.env
+.env.*
+*.pem
+*credentials*
+
+# --- IDE / editor settings ---
+.vscode/
+.idea/
+
+# --- OS junk files ---
+.DS_Store
+Thumbs.db
+
+# --- Data & outputs (uncomment if your dataset/results are large) ---
+# data/*.csv
+# outputs/
+# *.pdf
+# *.png
+
+# --- Build / packaging artifacts ---
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,6 @@
+patient_id,age,sex,district,employment_status,distance_to_clinic_km,clinic_wait_time_min,monthly_income_usd,missed_appointments,support_score_1_10,side_effects,treatment_duration_months,adherent
+P0001,56,Female,Matabeleland North,Unemployed,28.1,37,359.0,3,6.0,,6,No
+P0002,69,Male,Matabeleland North,Employed,1.6,44,107.0,1,9.0,Severe,6,Yes
+P0003,46,Male,Manicaland,Employed,4.7,17,307.0,1,,Mild,6,Yes
+P0004,32,Female,Mashonaland East,Employed,3.5,25,351.0,2,2.0,Severe,6,Yes
+P0005,60,Female,Harare,Self-employed,17.5,115,160.0,1,10.0,,9,Yes

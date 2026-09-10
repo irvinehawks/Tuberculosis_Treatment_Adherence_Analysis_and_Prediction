@@ -1,0 +1,301 @@
+patient_id,age,sex,district,employment_status,distance_to_clinic_km,clinic_wait_time_min,monthly_income_usd,missed_appointments,support_score_1_10,side_effects,treatment_duration_months,adherent
+P0001,56,Female,Matabeleland North,Unemployed,28.1,37,359.0,3,6.0,Mild,6,No
+P0002,69,Male,Matabeleland North,Employed,1.6,44,107.0,1,9.0,Severe,6,Yes
+P0003,46,Male,Manicaland,Employed,4.7,17,307.0,1,5.0,Mild,6,Yes
+P0004,32,Female,Mashonaland East,Employed,3.5,25,351.0,2,2.0,Severe,6,Yes
+P0005,60,Female,Harare,Self-employed,17.5,115,160.0,1,10.0,Mild,9,Yes
+P0006,25,Male,Manicaland,Self-employed,5.8,45,481.0,0,1.0,Moderate,12,No
+P0007,38,Female,Matabeleland North,Unemployed,2.1,39,223.0,1,2.0,Moderate,6,Yes
+P0008,56,Female,Bulawayo,Employed,18.7,27,102.0,0,5.0,Mild,12,No
+P0009,75,Male,Matabeleland North,Unemployed,14.7,11,679.0,0,4.0,Mild,6,No
+P0010,36,Male,Mashonaland East,Student,3.2,58,631.0,1,4.0,Mild,6,Yes
+P0011,40,Female,Matabeleland North,Employed,4.8,86,81.0,0,9.0,Moderate,12,Yes
+P0012,28,Male,Bulawayo,Unemployed,4.8,13,208.0,1,8.0,Mild,6,Yes
+P0013,28,Male,Mashonaland East,Unemployed,6.3,99,203.0,0,6.0,Mild,12,Yes
+P0014,41,Female,Matabeleland North,Self-employed,7.8,98,871.0,2,1.0,Mild,6,Yes
+P0015,70,Male,Mashonaland East,Self-employed,14.0,103,312.0,1,2.0,Severe,6,No
+P0016,53,Male,Harare,Unemployed,16.3,84,113.0,1,6.0,Moderate,6,Yes
+P0017,57,Female,Harare,Unemployed,0.8,16,532.0,1,2.0,Severe,9,Yes
+P0018,41,Female,Matabeleland North,Unemployed,32.2,104,135.0,2,10.0,Mild,9,No
+P0019,20,Male,Mashonaland East,Student,8.3,117,253.0,1,5.0,Mild,9,Yes
+P0020,39,Male,Bulawayo,Unemployed,8.3,83,182.0,1,5.0,Mild,6,Yes
+P0021,70,Female,Matabeleland North,Student,14.2,48,208.0,3,6.0,Mild,6,Yes
+P0022,19,Female,Harare,Unemployed,7.5,22,552.0,1,6.0,Mild,6,Yes
+P0023,41,Female,Harare,Unemployed,7.8,40,312.0,2,6.0,Mild,6,Yes
+P0024,61,Female,Matabeleland North,Unemployed,1.5,80,131.0,1,2.0,Mild,12,Yes
+P0025,47,Male,Mashonaland East,Employed,3.5,72,451.0,3,10.0,Mild,6,Yes
+P0026,55,Female,Harare,Unemployed,11.9,65,186.0,1,3.0,Severe,12,No
+P0027,19,Female,Mashonaland East,Self-employed,10.3,51,190.0,0,6.0,Mild,12,Yes
+P0028,38,Male,Harare,Self-employed,17.7,70,413.0,1,8.0,Moderate,6,Yes
+P0029,50,Female,Harare,Student,14.0,51,154.0,2,1.0,Mild,9,Yes
+P0030,29,Male,Manicaland,Employed,14.4,65,407.0,0,1.0,Mild,6,Yes
+P0031,75,Female,Harare,Self-employed,5.0,45,482.0,1,2.0,Mild,6,No
+P0032,39,Female,Bulawayo,Unemployed,5.2,93,226.0,4,6.0,Mild,6,Yes
+P0033,61,Female,Matabeleland North,Unemployed,14.5,77,711.0,0,9.0,Mild,9,Yes
+P0034,42,Male,Matabeleland North,Self-employed,5.6,16,131.0,3,4.0,Mild,6,Yes
+P0035,66,Male,Mashonaland East,Unemployed,10.4,63,719.0,0,3.0,Mild,6,Yes
+P0036,44,Female,Harare,Unemployed,8.4,10,85.0,0,8.0,Mild,6,Yes
+P0037,59,Male,Bulawayo,Employed,3.3,53,1735.0,2,10.0,Mild,6,Yes
+P0038,45,Male,Mashonaland East,Employed,7.1,54,230.0,1,9.0,Severe,9,Yes
+P0039,33,Male,Manicaland,Unemployed,2.3,115,141.0,1,5.0,Moderate,9,Yes
+P0040,32,Male,Mashonaland East,Employed,3.9,56,258.0,3,9.0,Mild,6,Yes
+P0041,64,Male,Mashonaland East,Employed,20.3,22,152.0,0,2.0,Mild,6,Yes
+P0042,68,Male,Harare,Unemployed,3.1,31,386.0,0,3.0,Moderate,9,Yes
+P0043,61,Female,Manicaland,Employed,6.3,30,730.0,1,7.0,Moderate,6,Yes
+P0044,72,Female,Mashonaland East,Self-employed,14.0,95,157.0,1,7.0,Mild,9,Yes
+P0045,69,Male,Bulawayo,Self-employed,10.8,101,437.0,1,6.0,Severe,6,Yes
+P0046,74,Female,Bulawayo,Unemployed,4.0,18,111.0,2,6.0,Mild,6,Yes
+P0047,20,Female,Matabeleland North,Self-employed,7.4,35,587.0,0,2.0,Severe,6,Yes
+P0048,54,Female,Manicaland,Unemployed,4.8,18,393.0,1,5.0,Moderate,6,Yes
+P0049,68,Female,Manicaland,Employed,9.3,24,604.0,0,6.0,Mild,9,Yes
+P0050,24,Male,Matabeleland North,Unemployed,13.6,19,277.0,1,4.0,Mild,6,Yes
+P0051,38,Female,Mashonaland East,Self-employed,3.5,97,226.0,2,3.0,Severe,9,No
+P0052,26,Female,Manicaland,Student,6.3,51,510.0,1,2.0,Mild,12,Yes
+P0053,56,Male,Bulawayo,Self-employed,5.4,81,128.0,1,1.0,Mild,6,Yes
+P0054,35,Male,Bulawayo,Student,18.6,33,97.0,3,5.0,Severe,9,Yes
+P0055,21,Female,Harare,Unemployed,6.3,89,299.0,0,2.0,Mild,6,Yes
+P0056,42,Female,Manicaland,Employed,16.2,58,233.0,1,2.0,Mild,6,Yes
+P0057,31,Female,Mashonaland East,Unemployed,10.8,35,430.0,0,7.0,Mild,9,Yes
+P0058,67,Female,Matabeleland North,Employed,8.2,100,610.0,1,8.0,Mild,6,Yes
+P0059,75,Female,Matabeleland North,Employed,7.2,46,424.0,2,10.0,Mild,9,Yes
+P0060,26,Female,Mashonaland East,Employed,2.9,77,579.0,0,8.0,Mild,6,Yes
+P0061,43,Male,Harare,Self-employed,9.1,59,370.0,1,4.0,Mild,9,No
+P0062,70,Female,Matabeleland North,Self-employed,6.0,33,414.0,1,1.0,Mild,12,Yes
+P0063,19,Female,Manicaland,Self-employed,9.7,28,278.0,6,7.0,Mild,12,Yes
+P0064,37,Male,Harare,Student,3.1,109,406.0,2,1.0,Mild,9,Yes
+P0065,45,Male,Manicaland,Employed,3.1,69,334.0,1,4.0,Mild,9,Yes
+P0066,64,Male,Bulawayo,Employed,1.4,48,371.0,0,8.0,Mild,9,Yes
+P0067,24,Male,Harare,Employed,3.9,83,269.0,0,2.0,Mild,9,Yes
+P0068,61,Female,Matabeleland North,Employed,7.1,98,508.0,0,6.0,Mild,6,Yes
+P0069,25,Female,Harare,Self-employed,5.9,27,189.0,0,6.0,Mild,6,Yes
+P0070,64,Female,Harare,Unemployed,4.4,28,296.0,0,9.0,Mild,6,Yes
+P0071,52,Female,Harare,Self-employed,11.7,45,704.0,1,5.0,Mild,12,Yes
+P0072,31,Female,Harare,Employed,14.5,83,162.0,1,10.0,Mild,6,Yes
+P0073,34,Female,Manicaland,Self-employed,16.9,106,74.0,0,4.0,Mild,6,Yes
+P0074,53,Male,Bulawayo,Employed,11.9,64,381.0,2,5.0,Mild,6,Yes
+P0075,67,Female,Mashonaland East,Student,17.6,78,254.0,2,10.0,Mild,9,Yes
+P0076,57,Male,Harare,Employed,14.6,56,579.0,2,5.0,Mild,9,Yes
+P0077,21,Male,Matabeleland North,Unemployed,8.0,58,276.0,2,8.0,Mild,6,No
+P0078,19,Female,Harare,Student,4.9,108,203.0,1,10.0,Mild,6,No
+P0079,23,Male,Matabeleland North,Self-employed,1.1,117,286.0,2,8.0,Mild,12,Yes
+P0080,71,Female,Manicaland,Student,6.0,107,610.0,0,2.0,Mild,6,Yes
+P0081,59,Male,Matabeleland North,Employed,6.5,42,312.0,0,7.0,Mild,6,Yes
+P0082,21,Female,Mashonaland East,Unemployed,6.7,30,62.0,2,8.0,Mild,9,Yes
+P0083,71,Male,Bulawayo,Self-employed,17.6,90,339.0,0,6.0,Mild,12,Yes
+P0084,46,Female,Matabeleland North,Unemployed,13.6,31,350.0,1,5.0,Mild,6,Yes
+P0085,35,Female,Matabeleland North,Employed,0.5,57,296.0,1,9.0,Mild,9,Yes
+P0086,43,Female,Bulawayo,Employed,17.0,46,312.0,1,3.0,Mild,12,Yes
+P0087,61,Female,Mashonaland East,Employed,8.5,24,652.0,2,10.0,Mild,6,Yes
+P0088,51,Female,Harare,Unemployed,17.9,44,673.0,1,4.0,Mild,12,Yes
+P0089,27,Male,Matabeleland North,Unemployed,12.2,101,72.0,0,9.0,Mild,9,Yes
+P0090,53,Male,Bulawayo,Unemployed,9.0,80,179.0,3,6.0,Mild,9,Yes
+P0091,31,Male,Manicaland,Employed,7.4,41,273.0,1,8.0,Mild,9,Yes
+P0092,48,Female,Bulawayo,Student,11.5,20,556.0,0,7.0,Severe,6,Yes
+P0093,65,Male,Manicaland,Self-employed,6.6,19,307.0,2,2.0,Mild,6,Yes
+P0094,32,Female,Mashonaland East,Self-employed,7.3,82,192.0,0,3.0,Moderate,6,Yes
+P0095,25,Female,Harare,Employed,4.8,87,476.0,2,1.0,Mild,6,Yes
+P0096,31,Male,Bulawayo,Unemployed,3.9,86,261.0,2,9.0,Mild,6,Yes
+P0097,40,Male,Matabeleland North,Employed,6.4,66,312.0,0,7.0,Mild,12,Yes
+P0098,74,Female,Mashonaland East,Unemployed,1.2,34,295.0,2,1.0,Mild,12,No
+P0099,57,Male,Bulawayo,Unemployed,5.9,11,436.0,1,3.0,Mild,9,Yes
+P0100,38,Female,Matabeleland North,Employed,1.7,73,245.0,1,4.0,Severe,12,Yes
+P0101,33,Female,Bulawayo,Self-employed,11.5,44,469.0,1,4.0,Mild,9,Yes
+P0102,62,Female,Manicaland,Employed,6.2,16,286.0,1,5.0,Severe,6,Yes
+P0103,35,Female,Bulawayo,Employed,3.6,94,312.0,2,3.0,Mild,6,Yes
+P0104,64,Female,Bulawayo,Self-employed,4.5,27,293.0,2,3.0,Mild,6,Yes
+P0105,70,Male,Bulawayo,Self-employed,12.8,76,155.0,1,1.0,Mild,9,Yes
+P0106,41,Male,Mashonaland East,Unemployed,8.9,51,308.0,0,7.0,Mild,6,Yes
+P0107,43,Female,Bulawayo,Self-employed,13.8,48,514.0,1,10.0,Mild,9,Yes
+P0108,42,Female,Matabeleland North,Unemployed,6.9,50,149.0,0,1.0,Mild,6,Yes
+P0109,62,Male,Manicaland,Unemployed,7.8,84,380.0,1,2.0,Mild,9,Yes
+P0110,58,Male,Manicaland,Unemployed,11.4,112,175.0,3,4.0,Mild,12,Yes
+P0111,46,Female,Bulawayo,Unemployed,5.0,33,342.0,0,4.0,Mild,9,Yes
+P0112,32,Male,Mashonaland East,Unemployed,5.4,69,525.0,1,5.0,Moderate,12,Yes
+P0113,62,Female,Mashonaland East,Self-employed,6.9,55,75.0,2,2.0,Mild,12,Yes
+P0114,18,Male,Matabeleland North,Employed,10.7,28,145.0,1,4.0,Moderate,12,Yes
+P0115,42,Female,Bulawayo,Student,16.1,77,236.0,2,1.0,Moderate,12,No
+P0116,24,Male,Manicaland,Unemployed,11.5,99,368.0,1,2.0,Moderate,12,Yes
+P0117,26,Female,Mashonaland East,Employed,30.5,111,312.0,4,1.0,Mild,9,No
+P0118,41,Male,Bulawayo,Self-employed,8.4,51,291.0,2,10.0,Mild,6,Yes
+P0119,18,Male,Mashonaland East,Employed,7.5,41,1132.0,1,10.0,Severe,6,Yes
+P0120,61,Female,Mashonaland East,Student,17.8,48,136.0,3,4.0,Mild,9,Yes
+P0121,25,Male,Manicaland,Employed,11.9,118,628.0,2,4.0,Mild,6,Yes
+P0122,41,Female,Harare,Employed,6.8,119,239.0,1,5.0,Mild,6,Yes
+P0123,28,Male,Matabeleland North,Self-employed,15.5,45,429.0,2,10.0,Mild,12,Yes
+P0124,68,Female,Matabeleland North,Self-employed,4.6,113,1197.0,3,9.0,Mild,12,Yes
+P0125,34,Male,Manicaland,Student,7.3,110,469.0,0,9.0,Mild,12,Yes
+P0126,25,Female,Mashonaland East,Employed,10.6,106,382.0,0,5.0,Moderate,6,Yes
+P0127,52,Male,Bulawayo,Unemployed,6.4,45,848.0,0,10.0,Mild,6,Yes
+P0128,52,Female,Mashonaland East,Employed,6.3,12,623.0,0,1.0,Moderate,6,Yes
+P0129,50,Male,Manicaland,Unemployed,8.0,82,178.0,2,1.0,Mild,6,Yes
+P0130,22,Female,Matabeleland North,Employed,7.7,17,363.0,4,6.0,Mild,6,Yes
+P0131,59,Female,Mashonaland East,Employed,14.6,106,98.0,1,2.0,Mild,6,Yes
+P0132,56,Female,Matabeleland North,Unemployed,10.9,79,211.0,2,8.0,Mild,12,No
+P0133,75,Male,Bulawayo,Student,24.8,50,368.0,0,9.0,Moderate,9,Yes
+P0134,58,Female,Matabeleland North,Student,15.3,112,203.0,2,4.0,Mild,6,No
+P0135,45,Male,Matabeleland North,Unemployed,7.8,77,358.0,2,5.0,Mild,6,No
+P0136,24,Female,Harare,Student,5.2,22,297.0,0,8.0,Mild,6,Yes
+P0137,26,Male,Harare,Employed,3.4,58,425.0,2,3.0,Mild,6,Yes
+P0138,25,Female,Harare,Student,9.3,69,228.0,0,5.0,Mild,12,Yes
+P0139,29,Male,Matabeleland North,Self-employed,4.5,11,163.0,1,3.0,Mild,6,Yes
+P0140,51,Male,Manicaland,Unemployed,7.2,69,784.0,2,10.0,Mild,6,Yes
+P0141,50,Female,Matabeleland North,Unemployed,10.9,14,217.0,1,3.0,Moderate,6,Yes
+P0142,65,Male,Manicaland,Unemployed,4.9,53,461.0,1,3.0,Mild,6,Yes
+P0143,72,Male,Manicaland,Self-employed,11.5,36,763.0,1,7.0,Mild,9,Yes
+P0144,40,Female,Harare,Self-employed,19.7,41,333.0,1,7.0,Mild,9,Yes
+P0145,41,Male,Mashonaland East,Unemployed,9.5,30,172.0,1,7.0,Moderate,9,Yes
+P0146,54,Male,Bulawayo,Employed,6.2,17,267.0,2,10.0,Mild,6,Yes
+P0147,52,Male,Harare,Student,4.7,111,581.0,1,8.0,Mild,9,Yes
+P0148,61,Female,Harare,Unemployed,6.3,81,343.0,0,5.0,Mild,9,No
+P0149,57,Male,Mashonaland East,Employed,8.6,59,137.0,2,5.0,Severe,12,Yes
+P0150,39,Female,Bulawayo,Unemployed,16.0,76,442.0,0,4.0,Mild,6,Yes
+P0151,44,Male,Matabeleland North,Self-employed,6.2,53,495.0,3,7.0,Moderate,6,Yes
+P0152,52,Male,Matabeleland North,Unemployed,12.5,67,312.0,1,10.0,Mild,9,Yes
+P0153,18,Male,Harare,Unemployed,11.8,12,446.0,0,4.0,Mild,9,Yes
+P0154,52,Female,Bulawayo,Employed,12.4,95,352.0,1,2.0,Moderate,6,No
+P0155,54,Male,Harare,Self-employed,14.2,79,264.0,2,4.0,Mild,6,Yes
+P0156,64,Male,Manicaland,Student,24.8,11,129.0,0,8.0,Moderate,6,Yes
+P0157,31,Female,Harare,Employed,4.1,96,605.0,0,9.0,Moderate,12,Yes
+P0158,20,Male,Harare,Unemployed,15.6,53,491.0,2,3.0,Moderate,6,Yes
+P0159,18,Female,Matabeleland North,Self-employed,5.2,11,438.0,1,5.0,Mild,12,Yes
+P0160,22,Female,Matabeleland North,Self-employed,6.9,111,819.0,1,9.0,Moderate,6,Yes
+P0161,43,Male,Matabeleland North,Self-employed,2.6,90,312.0,2,4.0,Mild,12,Yes
+P0162,72,Female,Manicaland,Self-employed,8.0,44,469.0,1,10.0,Moderate,12,Yes
+P0163,31,Male,Matabeleland North,Employed,15.8,107,71.0,2,3.0,Mild,6,Yes
+P0164,56,Female,Bulawayo,Unemployed,10.3,96,653.0,1,5.0,Moderate,12,Yes
+P0165,44,Female,Mashonaland East,Employed,11.1,39,317.0,0,1.0,Mild,6,Yes
+P0166,26,Male,Bulawayo,Employed,1.2,17,368.0,4,3.0,Mild,12,Yes
+P0167,32,Female,Bulawayo,Employed,4.8,31,369.0,0,8.0,Mild,9,Yes
+P0168,32,Female,Matabeleland North,Employed,4.0,53,496.0,0,8.0,Moderate,6,Yes
+P0169,43,Female,Mashonaland East,Self-employed,11.5,67,622.0,1,4.0,Mild,9,Yes
+P0170,59,Female,Mashonaland East,Unemployed,2.7,45,453.0,2,2.0,Mild,12,No
+P0171,30,Female,Mashonaland East,Unemployed,32.1,78,409.0,2,8.0,Moderate,6,No
+P0172,68,Male,Manicaland,Employed,6.6,86,349.0,2,8.0,Mild,9,Yes
+P0173,49,Female,Matabeleland North,Student,2.7,102,50.0,2,10.0,Mild,9,Yes
+P0174,56,Male,Mashonaland East,Unemployed,4.4,40,249.0,1,4.0,Mild,12,Yes
+P0175,66,Female,Manicaland,Self-employed,13.8,56,163.0,2,3.0,Mild,6,Yes
+P0176,69,Male,Harare,Student,6.6,64,659.0,1,5.0,Mild,6,No
+P0177,49,Male,Harare,Student,2.3,89,449.0,2,9.0,Mild,6,Yes
+P0178,21,Female,Manicaland,Employed,2.1,115,223.0,3,1.0,Mild,9,No
+P0179,47,Female,Manicaland,Self-employed,11.3,71,238.0,2,7.0,Mild,6,Yes
+P0180,54,Female,Matabeleland North,Student,10.2,39,232.0,1,5.0,Mild,12,Yes
+P0181,40,Male,Matabeleland North,Unemployed,3.2,64,230.0,2,8.0,Mild,6,Yes
+P0182,56,Female,Harare,Employed,9.2,25,117.0,2,4.0,Mild,9,Yes
+P0183,62,Male,Mashonaland East,Unemployed,7.2,21,102.0,3,7.0,Moderate,6,Yes
+P0184,32,Male,Harare,Unemployed,3.4,26,312.0,2,5.0,Mild,6,Yes
+P0185,60,Male,Mashonaland East,Unemployed,20.3,25,603.0,1,5.0,Mild,6,Yes
+P0186,46,Female,Mashonaland East,Unemployed,16.3,21,212.0,1,9.0,Moderate,6,Yes
+P0187,53,Female,Matabeleland North,Unemployed,12.3,17,365.0,2,9.0,Severe,9,Yes
+P0188,30,Male,Bulawayo,Employed,13.9,93,484.0,2,9.0,Mild,12,Yes
+P0189,49,Male,Bulawayo,Employed,13.1,12,157.0,1,6.0,Mild,9,Yes
+P0190,24,Female,Manicaland,Unemployed,5.8,25,296.0,2,6.0,Moderate,12,Yes
+P0191,68,Male,Matabeleland North,Student,7.7,39,195.0,1,5.0,Mild,12,Yes
+P0192,39,Female,Mashonaland East,Employed,16.0,118,852.0,0,9.0,Moderate,9,Yes
+P0193,45,Male,Bulawayo,Unemployed,4.4,32,828.0,1,10.0,Mild,12,Yes
+P0194,19,Female,Mashonaland East,Unemployed,14.6,101,157.0,0,8.0,Moderate,9,Yes
+P0195,59,Male,Bulawayo,Self-employed,8.0,113,386.0,1,7.0,Mild,6,Yes
+P0196,62,Female,Bulawayo,Unemployed,2.9,14,600.0,0,7.0,Mild,9,Yes
+P0197,74,Male,Bulawayo,Student,13.7,93,521.0,1,6.0,Mild,6,Yes
+P0198,70,Female,Matabeleland North,Unemployed,10.9,113,316.0,3,5.0,Mild,9,Yes
+P0199,23,Female,Harare,Self-employed,8.7,117,701.0,2,4.0,Mild,9,Yes
+P0200,45,Male,Mashonaland East,Self-employed,13.4,74,167.0,2,3.0,Moderate,6,Yes
+P0201,45,Male,Matabeleland North,Unemployed,9.7,39,246.0,4,3.0,Moderate,6,Yes
+P0202,61,Female,Matabeleland North,Self-employed,6.6,30,170.0,1,6.0,Mild,12,Yes
+P0203,61,Male,Matabeleland North,Self-employed,10.7,93,499.0,0,4.0,Moderate,9,No
+P0204,37,Female,Matabeleland North,Self-employed,17.1,79,205.0,0,6.0,Moderate,6,Yes
+P0205,47,Male,Matabeleland North,Employed,26.5,31,268.0,1,3.0,Mild,9,Yes
+P0206,28,Female,Manicaland,Employed,15.9,91,448.0,0,4.0,Mild,9,Yes
+P0207,75,Female,Mashonaland East,Self-employed,21.0,81,472.0,0,5.0,Mild,6,Yes
+P0208,72,Female,Matabeleland North,Self-employed,5.2,112,166.0,5,5.0,Mild,12,Yes
+P0209,45,Female,Mashonaland East,Employed,29.3,41,596.0,1,7.0,Mild,9,Yes
+P0210,42,Female,Manicaland,Unemployed,5.4,42,403.0,0,10.0,Moderate,6,Yes
+P0211,56,Female,Manicaland,Unemployed,11.0,25,149.0,1,2.0,Mild,12,Yes
+P0212,50,Male,Mashonaland East,Employed,9.7,85,127.0,1,5.0,Moderate,12,Yes
+P0213,18,Male,Bulawayo,Student,2.3,47,297.0,2,9.0,Mild,6,Yes
+P0214,74,Male,Harare,Self-employed,16.1,107,521.0,0,3.0,Mild,6,Yes
+P0215,44,Female,Bulawayo,Unemployed,6.5,23,530.0,0,9.0,Moderate,6,Yes
+P0216,74,Female,Bulawayo,Unemployed,4.0,45,378.0,2,6.0,Moderate,9,Yes
+P0217,69,Female,Bulawayo,Student,10.4,106,310.0,1,4.0,Mild,9,No
+P0218,30,Female,Matabeleland North,Unemployed,5.4,32,418.0,1,7.0,Mild,9,Yes
+P0219,58,Male,Manicaland,Unemployed,15.5,118,172.0,2,8.0,Mild,12,Yes
+P0220,20,Male,Bulawayo,Unemployed,6.1,75,898.0,2,6.0,Mild,9,Yes
+P0221,56,Female,Manicaland,Employed,7.6,114,891.0,0,5.0,Mild,6,Yes
+P0222,23,Male,Mashonaland East,Employed,19.9,94,396.0,0,6.0,Mild,6,Yes
+P0223,25,Male,Harare,Unemployed,5.4,11,341.0,0,5.0,Mild,6,Yes
+P0224,44,Female,Mashonaland East,Self-employed,7.9,100,230.0,2,8.0,Mild,6,No
+P0225,26,Male,Mashonaland East,Unemployed,17.2,82,423.0,0,1.0,Mild,9,Yes
+P0226,54,Female,Matabeleland North,Employed,10.1,74,191.0,0,7.0,Mild,12,Yes
+P0227,50,Male,Harare,Self-employed,3.6,84,71.0,0,10.0,Mild,6,Yes
+P0228,68,Female,Mashonaland East,Self-employed,2.2,76,51.0,2,10.0,Mild,9,Yes
+P0229,59,Female,Mashonaland East,Self-employed,5.1,61,178.0,2,2.0,Moderate,9,Yes
+P0230,61,Female,Harare,Unemployed,11.4,71,332.0,2,9.0,Mild,6,Yes
+P0231,41,Female,Harare,Self-employed,20.7,32,372.0,1,1.0,Moderate,6,No
+P0232,32,Male,Mashonaland East,Self-employed,16.8,35,219.0,0,10.0,Mild,6,Yes
+P0233,71,Female,Harare,Self-employed,4.2,77,329.0,1,6.0,Mild,6,Yes
+P0234,49,Female,Mashonaland East,Self-employed,6.7,91,251.0,1,9.0,Mild,12,Yes
+P0235,49,Female,Mashonaland East,Unemployed,20.2,64,157.0,2,1.0,Mild,6,Yes
+P0236,41,Male,Matabeleland North,Employed,1.6,15,290.0,0,4.0,Mild,6,Yes
+P0237,58,Female,Bulawayo,Unemployed,9.0,44,509.0,3,4.0,Moderate,6,No
+P0238,69,Male,Mashonaland East,Unemployed,4.2,31,161.0,1,9.0,Mild,12,Yes
+P0239,66,Female,Manicaland,Unemployed,21.3,52,161.0,0,5.0,Mild,6,No
+P0240,66,Male,Bulawayo,Unemployed,19.4,24,150.0,3,5.0,Mild,6,Yes
+P0241,75,Male,Bulawayo,Unemployed,10.1,95,312.0,1,6.0,Mild,6,Yes
+P0242,69,Female,Bulawayo,Student,5.9,69,220.0,2,1.0,Mild,6,Yes
+P0243,29,Male,Matabeleland North,Employed,24.0,110,477.0,2,1.0,Mild,6,No
+P0244,56,Female,Mashonaland East,Employed,4.7,115,336.0,2,9.0,Mild,9,Yes
+P0245,19,Female,Matabeleland North,Self-employed,11.2,21,269.0,3,3.0,Mild,6,Yes
+P0246,20,Female,Mashonaland East,Employed,8.1,120,326.0,2,4.0,Mild,6,Yes
+P0247,66,Male,Matabeleland North,Unemployed,18.1,58,218.0,0,1.0,Mild,12,Yes
+P0248,54,Male,Matabeleland North,Student,1.7,51,85.0,3,9.0,Mild,6,Yes
+P0249,66,Female,Manicaland,Employed,12.0,47,499.0,0,8.0,Mild,6,Yes
+P0250,73,Female,Matabeleland North,Employed,14.1,91,602.0,0,2.0,Severe,6,Yes
+P0251,34,Male,Harare,Employed,19.9,54,187.0,1,5.0,Mild,12,Yes
+P0252,66,Female,Manicaland,Unemployed,5.8,44,272.0,0,7.0,Moderate,6,Yes
+P0253,19,Female,Matabeleland North,Unemployed,5.3,39,257.0,0,6.0,Moderate,12,No
+P0254,19,Female,Bulawayo,Employed,4.5,97,377.0,2,1.0,Mild,9,Yes
+P0255,45,Male,Harare,Student,4.9,115,900.0,3,7.0,Mild,6,Yes
+P0256,71,Male,Harare,Unemployed,21.3,39,638.0,1,10.0,Moderate,12,Yes
+P0257,40,Male,Harare,Employed,12.5,87,235.0,2,7.0,Mild,6,Yes
+P0258,54,Female,Manicaland,Unemployed,1.8,15,312.0,2,9.0,Mild,6,Yes
+P0259,49,Female,Matabeleland North,Unemployed,10.6,76,678.0,1,1.0,Mild,12,No
+P0260,50,Female,Matabeleland North,Self-employed,3.0,89,391.0,1,2.0,Mild,9,No
+P0261,18,Male,Bulawayo,Employed,8.0,16,299.0,1,9.0,Mild,9,Yes
+P0262,36,Female,Bulawayo,Employed,7.8,61,401.0,4,9.0,Severe,6,Yes
+P0263,19,Female,Harare,Employed,8.1,23,190.0,0,6.0,Mild,6,Yes
+P0264,70,Female,Bulawayo,Unemployed,4.2,82,209.0,2,6.0,Mild,9,Yes
+P0265,61,Female,Manicaland,Student,10.4,24,150.0,2,4.0,Severe,6,Yes
+P0266,43,Male,Matabeleland North,Employed,12.8,30,366.0,2,4.0,Mild,6,Yes
+P0267,49,Male,Harare,Employed,2.6,44,275.0,0,5.0,Severe,6,Yes
+P0268,23,Female,Bulawayo,Employed,8.5,75,176.0,0,3.0,Mild,6,Yes
+P0269,49,Male,Manicaland,Employed,8.4,100,270.0,3,1.0,Mild,12,No
+P0270,72,Male,Manicaland,Unemployed,11.4,11,407.0,0,1.0,Moderate,6,No
+P0271,21,Female,Bulawayo,Employed,8.3,44,1041.0,1,7.0,Mild,12,Yes
+P0272,72,Female,Matabeleland North,Employed,1.2,91,579.0,4,1.0,Moderate,6,Yes
+P0273,28,Male,Bulawayo,Employed,13.9,87,68.0,1,1.0,Severe,9,Yes
+P0274,73,Female,Harare,Unemployed,12.8,29,350.0,1,3.0,Moderate,6,No
+P0275,34,Male,Bulawayo,Self-employed,5.5,91,760.0,2,10.0,Mild,6,No
+P0276,55,Female,Manicaland,Unemployed,6.1,19,126.0,2,4.0,Moderate,6,Yes
+P0277,41,Male,Bulawayo,Employed,5.0,34,429.0,0,4.0,Mild,6,Yes
+P0278,22,Female,Matabeleland North,Unemployed,13.6,75,257.0,0,2.0,Mild,6,Yes
+P0279,69,Male,Mashonaland East,Unemployed,6.7,34,634.0,0,1.0,Moderate,12,Yes
+P0280,51,Male,Bulawayo,Employed,5.9,63,390.0,2,3.0,Mild,9,Yes
+P0281,23,Male,Matabeleland North,Self-employed,13.9,42,169.0,1,4.0,Mild,6,Yes
+P0282,39,Female,Matabeleland North,Student,15.3,45,263.0,0,3.0,Moderate,6,Yes
+P0283,28,Male,Manicaland,Student,2.0,104,274.0,1,8.0,Mild,6,Yes
+P0284,65,Male,Matabeleland North,Self-employed,13.3,23,277.0,1,10.0,Mild,9,Yes
+P0285,33,Female,Matabeleland North,Self-employed,0.8,74,621.0,0,1.0,Moderate,9,No
+P0286,50,Female,Matabeleland North,Student,5.9,119,173.0,2,2.0,Mild,12,Yes
+P0287,26,Male,Matabeleland North,Unemployed,7.3,89,576.0,3,7.0,Moderate,6,Yes
+P0288,23,Male,Harare,Employed,16.8,63,246.0,2,4.0,Mild,6,Yes
+P0289,33,Female,Harare,Student,12.0,119,347.0,0,8.0,Mild,6,Yes
+P0290,46,Female,Manicaland,Employed,1.6,61,314.0,0,3.0,Mild,9,Yes
+P0291,20,Female,Bulawayo,Unemployed,8.4,12,296.0,0,6.0,Mild,9,Yes
+P0292,37,Female,Matabeleland North,Employed,20.3,108,297.0,4,9.0,Mild,9,No
+P0293,53,Female,Bulawayo,Employed,9.4,50,774.0,0,1.0,Moderate,9,Yes
+P0294,36,Male,Bulawayo,Employed,6.1,15,519.0,3,1.0,Mild,6,Yes
+P0295,43,Female,Manicaland,Unemployed,16.7,34,237.0,2,8.0,Mild,9,Yes
+P0296,20,Male,Matabeleland North,Employed,8.2,22,839.0,2,3.0,Mild,6,Yes
+P0297,36,Male,Matabeleland North,Employed,9.7,107,359.0,4,5.0,Mild,9,Yes
+P0298,37,Male,Mashonaland East,Employed,2.1,17,379.0,0,1.0,Mild,6,Yes
+P0299,49,Female,Bulawayo,Self-employed,7.0,30,174.0,3,5.0,Mild,6,Yes
+P0300,24,Male,Bulawayo,Student,25.2,107,217.0,3,6.0,Mild,12,Yes
